@@ -3,7 +3,7 @@ Applied Mathematics Student @ PSG college of Technology
 <img align="right" width="370" height="290" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW8wbmFwcDNudHJ0bTAyaXhwZ3F2b2N4aDVrbjJuYXZpN2k0OG9hZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning DSA and Machine Learning
-- 💞️ I’m looking to collaborate on exiciting projects
+- 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nivetha-udayasankar/)
 - 😄 Pronouns: She/Her
